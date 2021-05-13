@@ -1,0 +1,9 @@
+.shipping-form{
+    margin: 10px;
+    padding: 10px;
+}
+.shipping-form input{
+    padding: 5px;
+    display: block;
+    margin-bottom: 5px;
+}
